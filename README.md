@@ -1,6 +1,6 @@
 # 👨‍💻 Ibrahim Sidhom
 
-### Senior Software Engineer | Obour City, Egypt
+### 🚀 Senior Software Engineer | NetSuite Developer | Full Stack Enthusiast
 
 📍 **Location:** Obour City, Egypt  
 📞 **Contact:** +2 01200100224  
