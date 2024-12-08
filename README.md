@@ -3,9 +3,10 @@
 ### 🚀 Senior Software Engineer | NetSuite Developer | Full Stack Enthusiast
 
 📍 **Location:** Obour City, Egypt  
-📞 **Contact:** [📱 +2 01200100224](tel:+201200100224)
+📞 **Contact:** [📱 +2 01200100224](tel:+201200100224)  
 📧 **Email:** [ibrahimsedhom@gmail.com](mailto:ibrahimsedhom@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sedhom?utm_source=share&&utm_campaign=share_via&&utm_content=profile&&utm_medium=android_app)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sedhom?utm_source=share&&utm_campaign=share_via&&utm_content=profile&&utm_medium=android_app)
+  
 
 ---
 
@@ -66,3 +67,16 @@ Results-driven **Senior Software Engineer** with over a decade of experience in 
 ### 🌍 Languages
 - **Arabic:** Native  
 - **English:** Good
+  
+---
+
+### 📬 Let's Connect!
+
+- 📧 [ibrahimsedhom@gmail.com](mailto:ibrahimsedhom@gmail.com)  
+- 📞 [📱 +2 01200100224](tel:+201200100224)  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sedhom)  
+- 🌟 [GitHub Profile](https://github.com/yourusername)  
+
+---
+
+*“Great software is built on the foundations of curiosity, innovation, and relentless problem-solving.”*
